@@ -93,7 +93,7 @@ var map = new google.maps.Map(document.getElementById('map'), {
 var marker = new google.maps.Marker({
   position: myLatLng,
   map: map,
-  title: 'Chez Ibrahim, Developer Freelancer'
+  title: 'etsnass, agence location voiture niamey'
 });
 }
 </script>
