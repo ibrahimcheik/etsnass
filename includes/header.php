@@ -11,10 +11,10 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">Pour Plus d'information Contacter Nous : </p>
-              <a href="mailto:sayfibra@gmail.com">nassirouboula@yahoo.fr</a> </div>
+              <a href="mailto:nassirouboula@etsnass.net">nassirouboula@etsnass.net</a> </div>
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
-              <p class="uppercase_text">Service d'Aide Appeller Nous: </p>
+              <p class="uppercase_text">Appeller Nous: </p>
               <a href="tel:96-96-68-98">(+227 96 96 68 98)</a> </div>
             <div class="social-follow">
               <ul>

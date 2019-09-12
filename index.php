@@ -29,9 +29,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<meta name="keywords" content="location voiture ,voiture ,niamey , niger ,nassirou , etsnas" />
+<meta name="keywords" content="location, voiture, logistique, transport, niamey , niger, etsnass" />
 <meta name="robots" content="index ,follow" />
 <meta name="description" content="notre societe offre des service de location de voiture partout au niger siege niamey" />
+<meta name="author" content="Nassirou Amadou Siddo" />
+<meta name="copyright" content="© Amadou Moussa Ibrahim Freelancer Inc." />
 <title>Ets Nassirou Location De Voiture || Page D'accueil</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
@@ -93,8 +95,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="container">
     <div class="section-header text-center">
       <h2>La Meilleure <span>Voiture Pour Vous</span></h2>
-      <p>J'applique l'alchimie touareg aux choses. J'essaye de concasser le caillou de la douleur jusqu'à le transformer en subtil parfum. J'ai écopé tous les égouts, mais je suis encore loin d'avoir atomisé mon propre caillou . </br>
-      Ancien chef d'Etat nigérien, Seyni Kountché fait partie du club très fermé des chefs d'Etat africains d'après-indépendance dont les successeurs au pouvoir parlent avec une certaine admiration. Il a su imprimer durablement sa marque dans l'histoire de ce vaste ensemble sahélien où la rareté de l'eau rythme plus que partout ailleurs la vie des hommes.
+      <p>etsnass Rent a Car, agence de location de voitures au Niger, vous permet de réserver en ligne une voiture pas chère et d'en disposer à Niamey dès votre arrivée. La façon la plus simple pour réserver votre voiture. . </br>
+      Réservez votre voiture de location au Niger directement en ligne.
+      etsnass Rent a Car vous propose un large choix de voitures de location à prix réduit.
       </p>
     </div>
     <div class="row"> 
@@ -102,7 +105,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- Nav tabs -->
       <div class="recent-tab">
         <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#resentnewcar" role="tab" data-toggle="tab">New Car</a></li>
+          <li role="presentation" class="active"><a href="#resentnewcar" role="tab" data-toggle="tab">Nouvelles voitures</a></li>
         </ul>
       </div>
       <!-- Recently Listed New Cars -->
@@ -161,7 +164,7 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-car" aria-hidden="true"></i>1200+</h2>
+            <h2><i class="fa fa-car" aria-hidden="true"></i>100+</h2>
             <p>Nombre de Voiture Disponible</p>
           </div>
         </div>
@@ -169,7 +172,7 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-car" aria-hidden="true"></i>322+</h2>
+            <h2><i class="fa fa-car" aria-hidden="true"></i>80+</h2>
             <p>Nombre de Voiture Deja Mise En Circulation</p>
           </div>
         </div>
@@ -177,7 +180,7 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-user-circle-o" aria-hidden="true"></i>11200+</h2>
+            <h2><i class="fa fa-user-circle-o" aria-hidden="true"></i>2000+</h2>
             <p>Client Satisfait</p>
           </div>
         </div>

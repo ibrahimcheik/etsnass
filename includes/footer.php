@@ -58,7 +58,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
               </div>
               <button type="submit" name="emailsubscibe" class="btn btn-block">S'abonner <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></button>
             </form>
-            <p class="subscribed-text">*Recevez Les Derniere Marque De Voiture Mise En Ligne Chaque Semaine.</p>
+            <p class="subscribed-text">Recevez Les Derniere Marque De Voiture Mise En Ligne Chaque Semaine.</p>
           </div>
         </div>
       </div>
@@ -100,7 +100,7 @@ var marker = new google.maps.Marker({
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3f6mSUEfQRN8oKSVUQdMfJBwz1nCWqLM&callback=initMap"></script>
         <div class="col-md-6 text-center text-justify">
-          <p class="copy-right">Copyright &copy; 2018 ETSNAS Conçu par Amadou Moussa Ibrahim (+21653646370). Tous les droits sont réservés</p>
+          <p class="copy-right">Copyright &copy; 2019 ETSNASS Conçu par :<a href="https://www.linkedin.com/in/ibrahim-moussa-91135376/"> Amadou Moussa Ibrahim Freelancer</a>.(+21653646370) </p>
         </div>
       </div>
     </div>
