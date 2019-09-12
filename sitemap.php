@@ -2,7 +2,7 @@
 //sitemap.php
 $connect = mysqli_connect("localhost", "root", "", "etsnass");
 
-$query = "SELECT PageName FROM tbl_pages";
+$query = "SELECT PageName FROM tblpages";
 
 $result = mysqli_query($connect, $query);
 
